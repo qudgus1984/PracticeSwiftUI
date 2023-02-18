@@ -51,6 +51,8 @@
 		2FC20D6629A119CF00F0AA58 /* SwiftUITodo */ = {
 			isa = PBXGroup;
 			children = (
+				2FC20D7629A11A5000F0AA58 /* Resource */,
+				2FC20D7529A11A4400F0AA58 /* Source */,
 				2FC20D6729A119CF00F0AA58 /* SwiftUITodoApp.swift */,
 				2FC20D6929A119CF00F0AA58 /* ContentView.swift */,
 				2FC20D6B29A119D000F0AA58 /* Assets.xcassets */,
@@ -65,6 +67,20 @@
 				2FC20D6E29A119D000F0AA58 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2FC20D7529A11A4400F0AA58 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		2FC20D7629A11A5000F0AA58 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
